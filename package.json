@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },"scripts": { 
+    "start-api": "json-server --watch hotelia.json --port 5000"
+  }
+}
+
+
+
